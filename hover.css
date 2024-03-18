@@ -1,0 +1,15 @@
+main .section-1 .container .card:hover{
+    overflow: hidden;
+    padding: 0px;
+    background-color: white;
+    margin: auto;
+    border-bottom: 3px solid #c3aa45;
+    scale: 1.1;
+}
+main .section-2 .section-2-container  img:hover{
+    outline-offset: -9px;
+    outline: 2px solid goldenrod;
+    visibility:visible;
+    opacity: 0.6;
+    -webkit-filter: brightness(50%);
+}

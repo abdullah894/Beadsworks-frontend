@@ -1,0 +1,72 @@
+.main-header .banner {
+    height: 282px !important;
+}
+.wrapper-container .main-header .banner slick-initialized slick-slider slick-dotted .slick-dots{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    justify-content: end;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+.wrapper-container .main-header .banner .slick-dots  button{
+    background: gray;
+    padding-right: 1rem;
+    border-radius: 26px;
+    width: 45% !important;
+    height: 45%;
+    margin: 11px;
+    padding: 0px !important;
+}
+.wrapper-container .main-header .banner .slick-dots{
+    position: absolute;
+    bottom: -14px;
+    display: flex;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    top: 40%;
+    left: 4%;
+    list-style: none;
+    text-align: center;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.wrapper-container .main-header .banner .slick-dots .slick-active button{
+    background: white;  
+}
+.wrapper-container .main-header .banner slick-initialized slick-slider slick-dotted .slick-dots .presentation #slick-slide-control00{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.section-1 .container .slick-dots {
+    margin-top: 1rem;
+    
+}
+.section-1 .container .slick-dots  button{
+    background: gray;
+    padding-right: 1rem;
+    padding: 0px;
+    width: 26px;
+    height: 4px;
+}
+.section-1 .container .slick-dots .slick-active button{
+    background: gold;
+}
+.banner .slick-slide img {
+    display: inline;
+    float: right;
+    width: 13%;
+}
+.slick-next{
+    right: 96.344% !important;
+    background-color: #f3f1ea !important;
+    color: black !important;
+}
+.slick-next slick-arrow{
+    padding-inline: 2rem;
+
+}

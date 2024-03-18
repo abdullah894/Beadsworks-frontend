@@ -1,0 +1,377 @@
+@media screen and (max-width: 902px){
+    .main-header .logo {
+        padding: 9px 35%;
+    }
+    .banner #logo{
+    margin-top: 9rem;
+    width: 29%;
+}
+.banner h2{
+    font-size: 29px;
+    margin-top: 2rem;
+}
+.bottomfotter .mid .section-1 img{
+    margin-left: 5.8rem;
+}
+.bottomfotter .logo{
+padding-left: 5rem;
+    padding-right: 7rem;
+}
+main .section-2 .section-2-container .row-two div img {
+    width: 19%;
+}
+}
+@media screen and (max-width: 756px){
+    .main-header .logo {
+        padding: 10px 32%;
+    }
+    .banner #logo{
+        margin-top: 8rem;
+    width: 32%;
+}
+.banner p {
+    width: 71%;
+}
+main .section-1 .container .card {
+    width: 32%;
+}
+.bottomfotter .logo hr{
+    display: none;
+}
+main .section-2 .section-2-container .row-two div img {
+    width: 17%;
+    overflow: hidden;
+    margin-left: -2rem;
+    margin-right: 3rem;
+    margin-top: 5px;
+}
+.bottomfotter .mid .section-1 img {
+    margin-left: 3.7rem;
+}
+.bottomfotter .logo {
+    margin-top: 2rem;
+    display: flex;
+    padding-left: 15rem;
+}
+.bottomfotter .right {
+    float: left;
+    margin-left: 9rem;
+    margin-top: 1rem;
+    padding: 0px;
+    text-align: center;
+}
+footer .bottomfotter .section-2{
+    display: inline-block;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+}
+@media screen and (max-width: 564px){
+    .main-header .logo {
+        padding: 3px 25%;
+    } 
+    .bottomfotter .right {
+        float: left;
+        margin-left: 9rem;
+        margin-top: 1rem;
+        padding: 0px;
+        text-align: center;
+    }
+    .top-header .Welcome-text {
+        font-size: 11px;
+        font-family: Montserrat, sans-serif;
+        color: rgb(83, 82, 87);
+        font-weight: 600 !important;
+    }
+    main .section-2 .section-2-container .row-one {
+        border: none;
+        width: 100%;
+        overflow: visible;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        flex-wrap: wrap;
+    }
+    .top-header .icons img {
+        padding: 0px;
+        width: 21%;
+    }
+    .banner div {
+        margin-top: 1rem;
+    }
+    main .section-1 .container .flex {
+        flex-direction: column;
+    }
+    main .section-1 .container .card {
+        width: auto;
+    }
+    .bottomfotter .logo {
+        margin-top: 1rem;
+        display: flex;
+        padding-left: 9rem;
+    }
+.bottomfotter .mid {
+    display: inline-block;
+    margin: 0px;
+    padding-right: 0rem;
+}
+.bottomfotter .mid .section-1 {
+    display: inline-block;
+    background: none;
+    padding: 0px;
+}
+.bottomfotter .mid .section-1 img {
+    margin-left: 5rem;
+    width: 10%;
+}
+main .section-2 .section-2-container .row-two div .img1 {
+    margin-left: 15px;
+    width: 44%;
+    position: relative;
+bottom: 0px;
+}
+main .section-2 .section-2-container .row-two div .img2 {
+    margin-left: 14px;
+    width: 44%;
+    position: relative;
+    bottom: 0px; 
+}
+main .section-3 h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 100;
+    font-size: 33px;
+}
+.main-header #nav ul {
+    width: 99%;
+    margin: 0;
+    margin-top: 5px;
+    padding: 0;
+    text-align: center;
+}
+.main-header{
+    padding-bottom: 14rem;
+}
+.bottomfotter .left {
+    display: block;
+    margin-left: 6rem;
+    margin-top: 1rem;
+    padding: 0px;
+    text-align: center;
+}
+.bottomfotter .right {
+    float: left;
+    margin-left: 9rem;
+    margin-top: 1rem;
+    padding: 0px;
+    text-align: center;
+}
+main .section-1 .container .flex {
+    display: flex !important;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 2rem;
+    flex-direction: column;
+}
+main .section-2 .section-2-container .row-one img {
+        width: 44%;
+        overflow: hidden;
+        margin: 0px;
+        top: 0px;
+        padding-bottom: 1rem;
+    }
+    main .section-2 .section-2-container .row-one .bottom {
+        position: relative;
+        top: 0rem;
+        bottom: 0px;
+    }
+    main .section-2 .section-2-container .row-one .top {
+        position: relative;
+        top: 0rem;
+        bottom: 0px;
+    }
+    main .section-2 .section-2-container .row-two div {
+        display: flex;
+        text-align: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+    }
+    main .section-2 .section-2-container .row-two div img {
+        margin-left: -6rem;
+        width: 32%;
+    }
+    main .section-2 .section-2-container .row-two div {
+        display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    }
+    main .section-2 .section-2-container .row-two button {
+        display: block;
+        margin: auto;
+        background-color: black;
+        font-family: Montserrat, sans-serif;
+        padding-inline: 16px;
+        padding-block: 4px;
+        border: none;
+        margin-top: 2rem;
+        color: white;
+    }
+    .bottomfotter .left {
+        display: block;
+        margin-left: 10rem;
+        margin-top: 1rem;
+        padding: 0px;
+        text-align: center;
+    }
+    main .section-2 .section-2-container .row-two div img {
+        width: 45%;
+        overflow: hidden;
+        margin-right: 15px;
+        margin-top: 5px;
+    }
+    .section-3 .section-3-container {
+        text-align: center;
+    }
+    .main .section-3 h1{
+        font-size: 33px;
+    }
+    .section-3 .section-3-container .section-3-container-slider img {
+        width: 100%;
+        display: inline-block;  
+    }
+    main .section-3 button {
+        padding-inline: 29px;
+        padding-block: 5px;
+        margin-left: 13rem;
+    }
+    .topfotter .topfotter-div {
+        display: flex;
+        justify-content: space-between;
+        padding-block: 9px;
+        flex-direction: column;
+        align-content: center;
+        flex-wrap: wrap;
+        margin-left: 1rem;
+    }
+     .bottomfotter .section-2 h1 {
+        font-family: 'Libre Baskerville', serif;
+        text-align: center;
+        font-weight: 100;
+        margin-top: 0rem;
+        font-size: 21px;
+    }
+    .bottomfotter .copyrighttag h1 {
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        font-size: 12px;
+    }
+    .bottomfotter .vl{
+        display: none;
+    }
+    .banner #logo {
+        width: 48%;
+    margin: 0px;
+    }
+}
+
+
+@media screen and (max-width: 400px){
+    .main-header .logo {
+        padding: 3px 7%;
+    }
+    .main-header .banner {
+        height: 282px !important;
+        width: 100%;
+        margin: 0px;
+    }
+.main-header #nav li a{
+    padding-right: 4px;
+}
+
+main .section-1 .container .card:hover{
+    scale: 0.9;
+}
+main .section-3 h1 {
+    font-size: 30px;
+}
+main .section-3 button{
+    margin-left: 6rem;
+}
+.topfotter .topfotter-div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.top-header .icons {
+    float: right;
+    position: relative;
+    padding: 22px 0px 0 0;
+    overflow: hidden;
+    bottom: 1.9rem;
+    padding: 19px 0px 0px 0px;
+}
+.top-header .icons img {
+    padding: 0px;
+    width: auto;
+    margin-right: 0px;
+}
+.bottomfotter .logo {
+    margin-top: 1rem;
+    display: block;
+    padding-left: 2rem;
+}
+.bottomfotter .left {
+    display: block;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    padding: 0px;
+    text-align: center;
+}
+.bottomfotter .mid .section-1 img {
+    margin-left: 54px;
+    width: 10%;
+}
+.bottomfotter .right{
+    margin-left: 49px;
+}
+footer .bottomfotter .section-2 {
+    margin-left: 0px;
+}
+
+.main-header .banner button {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    padding-inline: 4px;
+    margin-top: 2rem;
+    border: none;
+    padding-block: 2px;
+}
+.banner p {
+    display: block;
+}
+.banner div {
+    margin-top: 19px;
+}
+.banner h2 {
+    font-size: 17px;
+    margin-top: 2px;
+}
+.banner h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #535257;
+    font-size: 14px;
+    text-decoration: underline;
+    display: inline;
+}
+.banner .slick-slide img {
+    display: block;
+    width: 89%;
+}
+}

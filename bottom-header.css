@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bottom-header {
+    background-color: black;
+    margin: auto;
+    display: block;
+    color: white;
+}
+.bottom-header img{
+    margin-left: 40%;
+    padding-top: 39px;
+    display: block;
+    margin-right: auto;
+}
+.bottom-header ul{
+  display: flex; 
+  margin-top: 33px;
+  justify-content: center;
+  list-style-type: disc;
+}
+.bottom-header ul li{
+    margin-right: 68px;
+}
+.bottom-header ul li a{
+    text-decoration:none ;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+container{
+    margin-top: 150px;
+    margin-left: 130px;
+    display: block;
+    padding-bottom: 40px;
+}
+.bottom-header container h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-small;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    color: #A8A196;
+}
+.bottom-header container h2{
+    font-size: xxx-large;
+    margin-bottom: 8px; 
+    display: inline;
+}
+.bottom-header container p{
+    width: 27%;
+    margin-top: 10px;
+    display: block;
+    font-size: x-small;
+    margin-bottom: 10px;
+    color: #A8A196;
+    margin-bottom: 11px;
+}
+.bottom-header container button{
+    border: none;
+    font-size: 12px;
+    padding-block: 3px;
+    padding-inline: 17px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-weight: bolder;
+}
+.bottom-header container .Ring{
+display: inline-block; 
+    width: 290px;
+    display: flex;
+    margin-left: 63%;
+    padding-bottom: -10px;
+    margin-top: -17.9%;
+    color: #000000;
+}

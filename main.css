@@ -1,0 +1,389 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+.top-header{
+    background-color: #cc9933;
+    position: relative;
+    padding: 8px 32px;
+}
+.top-header .Welcome-text {
+    letter-spacing: 0px;
+    font-size: 13px;
+    font-weight: 800 !important;
+    font-family: 'Montserrat', sans-serif;
+    color: #535257;
+}
+.top-header .icons{
+    float: right;
+    position: relative;
+    padding: 22px 0px 0 0;
+    overflow: hidden;
+    bottom: 2.4rem;
+    padding: 22px 0px 0px 0px;
+}
+.top-header .icons img{
+    padding-right: 1rem;
+}
+ .main-header .nav-opener {
+    display: none;
+}
+.main-header{
+    background: #212027;
+    background-image: url(XMLID\ 1.svg);
+    background-repeat: no-repeat;
+    background-size: 46rem;
+    background-position: 31% 70px;
+    padding-bottom: 6rem;
+}
+.main-header .logo {
+    position: relative;
+    padding: 10px 40%;
+}
+ .main-header #nav ul {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ .main-header #nav li {
+    display: inline-block;
+    list-style-type:circle;
+}
+.main-header #nav li a{
+    list-style-type:circle;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-right: 1rem;
+}
+.banner{
+    display: inline-block;
+    margin: 5em 8em 13px 7em;
+}
+
+.banner h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #535257;
+    font-size: 21px;
+    text-decoration: underline;
+    display: inline;
+}
+.banner h2{
+    margin-top: 1rem;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    font-size: 50px;
+    font-weight: 100;
+}
+.banner p{
+    margin-top: 1rem; 
+    width: 27%;
+    color: #535257;
+}
+.banner #logo{
+    float: right;
+    width: 20%;
+    /* overflow: hidden; */
+}
+.main-header .banner button{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    padding-inline: 7px;
+    margin-top: 2rem;
+    border: none;
+    padding-block: 2px;
+}
+main .section-1{
+    background-color: #f3f1ea;
+    padding: 41px 0px 41px 0px;
+}
+main .section-1 .container .flex{
+    display: flex !important;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 2rem;
+}
+main .section-1 h1,main .section-2 h1,.bottomfotter .section-2 h1{  
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    font-weight: 100;
+    font-size: 22px;
+}
+main .section-1 h2,main .section-2 h2{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    margin-top: 1rem;
+    font-weight: 100;
+    font-size: 39px;
+}
+main .section-1 .container .card{
+    overflow: hidden;
+    padding: 0px;
+    margin: auto;
+}
+main .section-1 .container .card img{
+    /* width: 116%; */
+    margin-bottom: 10px;
+    padding: 0px;
+}
+main .section-1 .container .card h1{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    margin: auto;
+    padding: 0px;
+    overflow: hidden;
+}
+main .section-1 .container .card p{
+    font-family: 'Montserrat', sans-serif;
+    color: #969493;
+    font-size: 15px;
+    padding-top: 10px;
+}
+main .section-1 .container .card li{
+    list-style: none;
+    padding-top: 12px;
+    text-decoration: underline;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+main .section-2{
+    display: block;
+    margin-top: 1rem;
+}
+main .section-2 .section-2-container .row-one{
+    border: 2px solid #c3aa45;
+    width: 80%;
+    margin-top: 1rem;
+    overflow: visible;
+    justify-content: end;
+    display: flex;
+}
+main .section-2 .section-2-container .row-two{
+    background-color: #f3f1ea;
+}
+main .section-2 .section-2-container .row-two div{
+    display: block;
+    text-align: center;
+}
+main .section-2 .section-2-container .row-one img{
+    float: right;
+    width: 19%;
+    margin-right: 1em;
+    overflow: hidden;
+}
+main .section-2 .section-2-container .row-one .top{
+    position: relative;
+    bottom: 5px;
+}
+ 
+main .section-2 .section-2-container .row-one .bottom{
+    position: relative;
+    top: 5rem;
+}
+main .section-2 .section-2-container .row-two div img{
+
+    /* width: 19%; */
+    margin-right: 1em;
+    overflow: hidden;
+}
+main .section-2 .section-2-container .row-two div .img1{
+    margin-left: -7rem;
+    width: 15%;
+    position: relative;
+    bottom:  1.3rem;
+}
+main .section-2 .section-2-container .row-two div .img2{
+    margin-right: -2rem;
+    width: 16%;
+    position: relative;
+    bottom: 1rem;
+}
+
+main .section-2 .section-2-container .row-two button{
+    display: block;
+    margin: auto;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    padding-inline: 16px;
+    padding-block: 4px;
+    border: none;
+    color: white;
+}
+main .section-3 h1{
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 100;
+    font-size: 39px;
+}
+main .section-3 button{
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    padding-inline: 16px;
+    padding-block: 4px;
+    border: none;
+    color: white;
+    margin-left: 1rem;
+}
+.section-4 .buttons{
+    list-style: none;
+    width: 64%;
+    margin-left: 16rem;
+    display: flex;
+    font-size: 27px;
+    padding-top: 12px;
+    font-family: 'Montserrat', sans-serif;
+}
+.section-4 .buttons li{
+    margin: auto;
+}
+.section-4 div{
+    padding-top: 10px;
+}
+.section-4 div div{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.section-4 div .row-1{
+    align-content: flex-start;
+}
+.section-4 div .row-2{
+    display: inline-flex;
+    position: relative;
+    left: 27%;
+    top: -708px;
+}
+.section-4 div .row-3{
+    float: right;
+    position: relative;
+    bottom: 46rem;
+    right: 21rem;
+}
+footer .topfotter{
+background-color: #212027;
+}
+.topfotter .topfotter-div{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-evenly !important;
+    padding-block: 9px !important;
+}
+.topfotter .topfotter-div img{
+    display: inline !important;
+margin-inline: 1rem !important;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+.topfotter .topfotter .slick-listdraggable .slick-track  div{
+    width: 1157px !important;
+}
+.bottomfotter .logo{
+    margin-top: 2rem;
+    display: flex;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.bottomfotter .logo hr{
+    width: 28%;
+    display: inline-block;
+    padding: 0px;
+    margin: auto;
+}
+.bottomfotter .left{
+    display: block;
+    float: left;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding: 0px;
+    text-align: center;
+}
+.bottomfotter .left div{
+    flex-direction: column;
+}
+.bottomfotter .left div h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    padding-bottom: 1rem;
+    letter-spacing: 1px;
+}
+.bottomfotter .mid{
+    display: inline;
+    margin: 0px;
+    padding-right: 0rem;
+}
+
+.bottomfotter .mid .section-1{
+   display: inline;
+   background: none;
+   padding: 0px;
+}
+.bottomfotter   .vl {
+    border-left: 1px solid black;
+    height: 116px;
+    margin-block: 1rem;
+    position: relative;
+    left: 48.3%;
+  }
+.bottomfotter .mid .section-1 img{
+    width: 2%;
+    margin-left: 14.5rem;
+}
+.bottomfotter .right{
+    float: right;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding: 0px;
+    text-align: center;
+}
+.bottomfotter .right div h1{
+font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    padding-bottom: 1rem;
+    letter-spacing: 1px;
+}
+.bottomfotter .section-2 div{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.bottomfotter .section-2 div input{
+    padding-block: 7px;
+    padding-inline: 29px;
+}
+.bottomfotter .section-2 div input::placeholder{
+  font-size: 12px;  
+}
+.bottomfotter .section-2 div button{
+    padding-block: 8.5px;
+    padding-inline: 29px;
+    margin-left: -1px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.bottomfotter  .copyrighttag h1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+.section-3 .section-3-container{
+    text-align: end;
+}
+.section-3 .section-3-container .section-3-container-slider img{
+    width: 55% !important;
+}
+.topfotter .slick-initialized .slick-slide .slick-slide slick-current slick-active
+{
+    width: 1155px !important;
+}
